@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for McAllen in the Lone Star State with a population of over 142k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
   "config_name": "All Restaurants in McAllen, Texas, US",
-  "export_job_id": "7a215693-c3a2-4521-8240-4807825a106e",
+  "export_job_id": "287bee87-5c5a-4665-b860-3c8455252b8e",
   "github_org": "Beamstation-Datasets",
   "id_short": 910968,
   "location_name": "McAllen",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-mcallen-texas-us-sample-910968",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/910968/beamstation_910968_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_pct": 9.97,
-  "sample_records": 61,
-  "sample_sha256": "0496e42949b30f79e29f4d3724fdb3b2f21c6e129c7ea6a6e490f7d86e2b3b4d",
-  "sample_size_bytes": 243132,
-  "total_records": 612,
-  "updated_at": "2026-04-09T10:16:05.426574+00:00"
+  "sample_records": 60,
+  "sample_sha256": "99996bd8a4b6665f94144cf1dfb9f7d924b08c8976765fcb99e77bc14456b290",
+  "sample_size_bytes": 227224,
+  "total_records": 602,
+  "updated_at": "2026-04-16T10:09:24.275419+00:00"
 }
