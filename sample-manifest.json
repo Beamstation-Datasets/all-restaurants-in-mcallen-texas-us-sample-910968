@@ -1,12 +1,12 @@
 {
-  "export_job_id": "3cdeebcb-ce5e-4a4c-b742-561f9ecc5b65",
+  "export_job_id": "656ff6eb-72b0-451d-b1fb-5993d1be0f30",
   "id_short": 910968,
-  "published_at": "2026-04-23T19:42:41Z",
+  "published_at": "2026-04-30T19:35:58Z",
   "repo_name": "all-restaurants-in-mcallen-texas-us-sample-910968",
   "sample_asset_name": "beamstation_910968_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/910968/beamstation_910968_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 45,
-  "sample_sha256": "32852b2075f5324139b0ed6e054296c4c475cf8bff7f4e5913333956b540260e",
-  "sample_size_bytes": 113076,
-  "total_records": 454
+  "sample_records": 72,
+  "sample_sha256": "5b42e30c1ef6dc3c1111b9e64bf14e4d0b9afd3331a1693d573c0fe5501b25bc",
+  "sample_size_bytes": 259473,
+  "total_records": 722
 }
